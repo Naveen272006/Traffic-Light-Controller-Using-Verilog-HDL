@@ -55,7 +55,8 @@ begin
      end
      endmodule
 
-OUTPUT:![traffic light](https://github.com/user-attachments/assets/9b46f1c7-4377-4b53-863f-591509684edb)
+OUTPUT:![tf 1](https://github.com/user-attachments/assets/160fc3b0-8c74-4263-bf34-18634ce08ce0)
+
 
 
 Testbench for Traffic Light Controller
@@ -95,7 +96,8 @@ module Traffic_light_controller_TB;
   end
 endmodule
 
-OUTPUT:![testbench output for traffic light](https://github.com/user-attachments/assets/926ce102-d4c6-4a73-916d-2227fa5233b2)
+OUTPUT:![tft 1](https://github.com/user-attachments/assets/05011679-0c65-4ff6-89db-7ed4f84f4bb3)
+
 
 
 Conclusion
